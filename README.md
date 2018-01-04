@@ -1,6 +1,6 @@
 # Franko-Dorker
 
-This is sql dorker scanner using Bing search engine
+This is sql dorker scanner using Bing search engine.
 ## Getting Started
 
 This is guide For using my script. 
@@ -44,9 +44,9 @@ bundle install
 ```
 OR
 
-'''
+```
 or use the .exe version
-'''
+```
 
 ## Running
 as the normal way
