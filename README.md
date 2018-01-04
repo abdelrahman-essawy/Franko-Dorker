@@ -3,7 +3,9 @@
 This is sql dorker scanner using Bing search engine
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This is guide For using my script. 
+
+
 
 ### Prerequisites
 
@@ -40,7 +42,11 @@ OR
 ```
 bundle install
 ```
+OR
 
+'''
+or use the .exe version
+'''
 
 ## Running
 as the normal way
@@ -48,6 +54,7 @@ as the normal way
 ```
 ruby Franko-Dorker.rb
 ```
+
 ### Options
 type this command to see all the options
 ```
