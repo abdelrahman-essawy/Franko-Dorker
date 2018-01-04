@@ -52,4 +52,4 @@ ruby Franko-Dorker.rb
 
 ## Authors
 
-* **Abd Elrahman Mohamed** - *Initial work* - [PurpleBooth](https://github.com/bodam7md)
+* **Abd Elrahman Mohamed**
