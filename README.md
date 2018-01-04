@@ -48,7 +48,11 @@ as the normal way
 ```
 ruby Franko-Dorker.rb
 ```
-
+### Options
+type this command to see all the options
+```
+ruby Franko-Dorker.rb -h
+```
 
 ## Authors
 
